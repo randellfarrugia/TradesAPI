@@ -1,0 +1,12 @@
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\TradesApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\TradesApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\TradesApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\TradesApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\TradesApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\bin\Release\net8.0\TradesApi.Infrastructure.deps.json
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\bin\Release\net8.0\TradesApi.Infrastructure.dll
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\bin\Release\net8.0\TradesApi.Infrastructure.pdb
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\TradesApi.Infrastructure.dll
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\refint\TradesApi.Infrastructure.dll
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\TradesApi.Infrastructure.pdb
+C:\Users\Randell\Desktop\TradesAPI\TradesApi.Infrastructure\obj\Release\net8.0\ref\TradesApi.Infrastructure.dll
