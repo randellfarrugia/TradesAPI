@@ -39,6 +39,7 @@ bld/
 # Visual Studio 2017 auto generated files
 Generated\ Files/
 
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -348,3 +349,15 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+TradesApi.Api/obj/Debug/net8.0/apphost.exe
+TradesApi.Core/obj/Debug/net8.0/TradesApi.Core.assets.cache
+TradesApi.Api/obj/Debug/net8.0/apphost.exe
+TradesApi.Api/obj/Debug/net8.0/TradesApi.Api.assets.cache
+TradesApi.Api/obj/Debug/net8.0/TradesApi.Api.csproj.FileListAbsolute.txt
+TradesApi.Core/obj/Debug/net8.0/TradesApi.Core.assets.cache
+TradesApi.Core/obj/Debug/net8.0/TradesApi.Core.csproj.FileListAbsolute.txt
+TradesApi.Infrastructure/obj/Debug/net8.0/TradesApi.Infrastructure.assets.cache
+TradesApi.Infrastructure/obj/Debug/net8.0/TradesApi.Infrastructure.csproj.FileListAbsolute.txt
+TradesApi.Api/obj/
+TradesApi.Tests/obj/
+TradesApi.Tests/obj/project.nuget.cache
