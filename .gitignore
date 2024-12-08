@@ -359,5 +359,11 @@ TradesApi.Core/obj/Debug/net8.0/TradesApi.Core.csproj.FileListAbsolute.txt
 TradesApi.Infrastructure/obj/Debug/net8.0/TradesApi.Infrastructure.assets.cache
 TradesApi.Infrastructure/obj/Debug/net8.0/TradesApi.Infrastructure.csproj.FileListAbsolute.txt
 TradesApi.Api/obj/
-TradesApi.Tests/obj/
+TradesApi.Infrastructure/obj/
+TradesApi.Infrastructure\obj\
+TradesApi.Tests\obj\
 TradesApi.Tests/obj/project.nuget.cache
+TradesApi.Api/obj/Debug/net8.0/apphost.exe
+TradesApi.Api\obj\
+TradesApi.Api\obj\Debug
+TradesApi.Infrastructure/obj/Debug/net8.0/TradesApi.Infrastructure.assets.cache
