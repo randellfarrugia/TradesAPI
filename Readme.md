@@ -48,3 +48,9 @@ Create a request on postman using the request above to create a trade. To get al
 The console app - Trade Logger will log any trades that are created by the API. To view these logs simply go on the docker container and click on View Details on the trade-logger container
 
 ![DockerTradeLoggerLogs](https://i.ibb.co/X5fHTz9/image.png)
+
+In order to login to the RabbitMQ console, simply click the link from the docker container and login using username : guest, password guest
+
+### Note about Security
+
+The passwords and secrets have been commited to github in plain text in a .env file for simplicity of this project. In a real world scenario these would be retrieved via something along the lines of a secret manager
