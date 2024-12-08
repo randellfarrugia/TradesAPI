@@ -26,7 +26,7 @@ namespace TradesApi.Api.Controllers
             trade.TradeDate = DateTime.UtcNow;
 
             var tradeId = await _tradesService.CreateTrade(trade);
-            var message = $"Trade executed by {trade.User} with - {trade.Amount} {trade.Amount} for a fee of - {trade.Fee}";
+            var message = $"Trade executed by {trade.User} with - {trade.Amount} {trade.CurrencyCode} for a fee of - {trade.Fee}";
             _messageQueueService.SendTradeMessage(message);
 
             return Ok("{\"tradeId\":\"" + tradeId + "\"}");
