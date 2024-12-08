@@ -45,6 +45,8 @@ password : SecurePassword123!
 
 Create a request on postman using the request above to create a trade. To get all trades simply hit /trades with a GET request and if you want a specific trade you can perform a GET on /trades/{tradeid}
 
+Alternatively, there is also a ```/swagger``` endpoint which can be used to test these requests
+
 The console app - Trade Logger will log any trades that are created by the API. To view these logs simply go on the docker container and click on View Details on the trade-logger container
 
 ![DockerTradeLoggerLogs](https://i.ibb.co/X5fHTz9/image.png)
