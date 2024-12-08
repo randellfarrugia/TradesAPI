@@ -1,3 +1,5 @@
+
+
 # Trades API
 
 This project consists of an API and a console application. The api accepts request on 3 endpoints
@@ -29,7 +31,7 @@ docker build -t tradesapi -f TradeLogger.ConsoleApp/Dockerfile .
 docker-compose up --build
 ```
 
-Once the container is up, run the sql script found in /sql-scripts to initialize the Database.
+Once the container is up, run the [init sql script](https://github.com/randellfarrugia/TradesAPI/blob/main/sql-scripts/init.sql) found in [/sql-scripts](https://github.com/randellfarrugia/TradesAPI/tree/main/sql-scripts) to initialize the Database.
 In order to connect to the database, use any sql management tool and connect by entering the below credentials
 
 ```
@@ -46,4 +48,3 @@ Create a request on postman using the request above to create a trade. To get al
 The console app - Trade Logger will log any trades that are created by the API. To view these logs simply go on the docker container and click on View Details on the trade-logger container
 
 ![DockerTradeLoggerLogs](https://i.ibb.co/X5fHTz9/image.png)
-
