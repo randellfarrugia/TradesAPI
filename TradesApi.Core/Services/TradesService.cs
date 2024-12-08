@@ -33,6 +33,11 @@ namespace TradesApi.Core.Services
         public async Task<GetTradeResponse> GetTradeById(Guid id)
         {
             var trade = await _repository.GetTradeById(id);
+            if (trade == null) 
+            {
+                return null;
+            }
+            
             return MapTradetoTradeResponse(trade);
         }
 

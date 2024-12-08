@@ -27,7 +27,7 @@ namespace TradesApi.Infrastructure.Repositories
         public async Task<Trade> GetTradeById(Guid id)
         {
             _logger.LogInformation($"Getting Trade by id - {id}");
-            return await _context.Trades.Where(x => x.Id == id).FirstOrDefaultAsync();
+            return await _context.Trades.Where(x => x.Id == id)?.FirstOrDefaultAsync();
         }
 
         public async Task<Guid> CreateTrade(Trade trade)
